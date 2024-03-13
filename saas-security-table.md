@@ -10,10 +10,6 @@
 | **:grey_question:**       | Unknown or Unclear                                |
 | **:asterisk:**            | Additional Requirements Needed                    |
 | **:heavy_dollar_sign:**   | Additional Cost on top of base licensing          |
-| **macOS**                 | Feature for macOS                                 |
-| **iOS/iPadOS**            | Feature for iOS flavors: iPhoneOS, iPadOS, iPodOS |
-| **tvOS**                  | Feature for tvOS (Apple TV)                       |
-| **Server Infrastructure** | Infrastructure feature, not OS-specific           |
 
 
 ### Saas security summary table
