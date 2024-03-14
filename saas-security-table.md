@@ -18,4 +18,4 @@
 |---|---|---|---|---|---|---|---|
 | **Cledara** | https://www.cledara.com | https://trust.cledara.com | :x: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | 
 |**Datadog**| https://www.datadog.com | https://trust.datadoghq.com |  :white_check_mark: |  :white_check_mark: | :x: | :x: | :white_check_mark: |
-
+|**Salesloft**|https://www.salesloft.com |https://trust.salesloft.com|:white_check_mark:|:white_check_mark:|:x:|:x:|:white_check_mark:|
